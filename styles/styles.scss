@@ -1,2 +1,24 @@
-@import 'normalize', 'fonts', 'mixins', 'media', 'variables', 'utils', 'globals';
+* {
+  // outline: 1px solid red;
+}
+@import 
+'normalize', 
+'fonts', 
+'mixins', 
+'media', 
+'variables', 
+'utils', 
+'globals';
+
+@import 
+'blocks/button',
+'blocks/burger-button',
+'blocks/header',
+'blocks/cross-button',
+'blocks/mobile-overlay',
+'blocks/_section.scss',
+'blocks/hero';
+
+
+
 
